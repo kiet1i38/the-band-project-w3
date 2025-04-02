@@ -1,0 +1,30 @@
+1. phân tích
+2. dựng base (xây móng)
+3. xây dựng từng phần theo phân tích
+4. hoàn thiện
+
+
+
+
+Những thành phần thường gặp trên giao diện web:
+1. header
+2. navigation (điều hướng)
+3. breadcrumb (ex: 1/2/3 || 1->2->3)
+4. sidebar
+5. slider
+6. content (nội dung chính)
+7. footer
+
+
+
+phân tích dự án the band 
+1. Phân tích --> OK
+    1. header
+    2. slider
+    3. content
+        1. about
+        2. tour
+        3. contact 
+        4. image
+    4. footer
+2. dựng base
