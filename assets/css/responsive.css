@@ -90,6 +90,10 @@
         display: block;
     }
 
+    #slider .text-content {
+        display: none;
+    }
+
     #content .member-item {
         margin-top: 30px;
         width: 100%;
